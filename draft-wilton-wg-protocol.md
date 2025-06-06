@@ -35,14 +35,14 @@ informative:
 
 --- abstract
 
-TODO Abstract
+This is my updated abstract.
 
 
 --- middle
 
 # Introduction
 
-TODO Introduction
+Updated introduction.
 
 
 # Conventions and Definitions

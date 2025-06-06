@@ -8,7 +8,7 @@ Intended status: Informational                               6 June 2025
 Expires: 8 December 2025
 
 
-                           Foo Specification
+                        Foo Specification Change
                     draft-wilton-wg-protocol-latest
 
 Abstract

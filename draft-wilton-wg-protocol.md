@@ -27,10 +27,6 @@ author:
     organization: Cisco
     email: rwilton@cisco.com
 
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
-category: info
-
 normative:
 
 informative:

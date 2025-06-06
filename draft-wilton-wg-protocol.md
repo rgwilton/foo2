@@ -1,5 +1,5 @@
 ---
-title: "Foo Specification"
+title: "Foo Specification Change"
 abbrev: "Foo"
 category: info
 
